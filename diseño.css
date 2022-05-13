@@ -1,0 +1,44 @@
+.bodylogin{
+display: flex;
+background-image: url(images/fondo3.jpg);
+background-size: 100%;
+
+}
+
+#menu2{
+    align-items: flex-end;
+
+}
+form{ /*estructura login*/
+    
+    margin-left: 550px;
+    margin-top: 15%;
+    background-color: #b38643;
+    padding: 40px;   
+    color: #ffffff;
+    border-radius: 15px;
+}
+form>a{
+    text-decoration: none;
+    color: #ffffff;
+    background-color: #b38643;
+    
+}
+form>a:hover{
+    text-decoration: none;
+    color: #000000;
+    
+    
+}
+#emailHelp{
+    color: black;
+
+}
+#boton2
+#headmenu{
+    background-color: #ff7a00 !important;
+}
+
+
+
+

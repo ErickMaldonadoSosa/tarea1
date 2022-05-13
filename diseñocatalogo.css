@@ -1,0 +1,60 @@
+/*################################################catalogo###################################################*/
+*{
+    box-sizing: border-box !important;
+}
+
+#bodycatalogo{
+    background-image: url(images/fondo3.jpg);
+    
+    box-sizing: border-box;
+    background-size: cover;
+    background-attachment: fixed;
+    }
+    .main{
+    
+        width: 1200px;
+    
+        
+    }
+    
+    header{
+        background-color: #b38643;
+        border-style: solid;
+        border-radius: 20px;
+        padding: 5px;
+        text-align: center;
+        display: block;
+        
+    }
+    
+    .producto1{
+        width: 50%;
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+        border-style: solid; 
+        border-color: rgb(194, 15, 15);
+
+        
+    }
+    
+    .main img{
+        width: 40%;
+        float: left !important;
+        border-style: solid; 
+        border-color: rgb(194, 15, 15);
+        
+      
+        margin-right: auto;
+        display: block;
+       }
+    
+    .separador1{
+        height: 10px;
+        clear: both;
+    }
+    .separador2{
+        width: 10px;
+       float: left;
+       height: 1px;
+    }
